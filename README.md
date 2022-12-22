@@ -5,7 +5,7 @@ Below are screenshots of the script.js, HTML and style.css file as well as the w
 ![This is my script.js 2](Images/Javascript-2.PNG) 
 ![This is my CSS 1](Images/CSS-1.PNG) 
 ![This is my CSS 2](Images/CSS-2.PNG) 
-![This is my HTML](Images/01-index-HTML-Capture.PNG) 
+![This is my HTML](Images/01-Index-HTML-Capture.PNG) 
 ![This is the Webpage](Images/Website.PNG) 
 
 Below are the URL's for The GitHub Repository and the Deployed Application.
