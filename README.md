@@ -7,3 +7,7 @@ Below are screenshots of the script.js, HTML and style.css file as well as the w
 ![This is my CSS 2](Images/CSS-2.PNG) 
 ![This is my HTML](Images/01-index-HTML-Capture.PNG) 
 ![This is the Webpage](Images/Website.PNG) 
+
+Below are the URL's for The GitHub Repository and the Deployed Application.
+Github Repository: https://github.com/Ervin543/Employer-Password-Generator/edit/main/README.md
+Deployed Application: https://ervin543.github.io/Employer-Password-Generator/
